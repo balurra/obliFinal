@@ -1,0 +1,11 @@
+.form-select, .form-control{
+    margin: auto;
+    height: 35px;	
+	font-size: 18px;	
+	font-weight: 600;	
+	line-height: 27px;
+    width: 80%;
+    color: black;
+    text-align: center;
+    display: block;
+}

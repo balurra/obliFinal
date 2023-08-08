@@ -1,0 +1,42 @@
+.sel-habilitado {
+    display: block;
+    margin: auto;
+    height: 35px;	
+	font-size: 18px;	
+	font-weight: 600;	
+	line-height: 27px;
+    width: 80%;
+    color: black;
+    text-align: center;
+    display: block;
+}
+
+.sel-deshabilitado {
+    display: none;
+    
+}
+
+
+
+.disabled-link{
+    pointer-events: none;
+    display: none;
+    list-style-type: none;
+  }
+
+.enabled-link{
+    pointer-events: auto;
+    display: block;
+  }
+
+  .form-select {
+    margin: auto;
+    height: 35px;	
+	font-size: 18px;	
+	font-weight: 600;	
+	line-height: 27px;
+    width: 80%;
+    color: black;
+    text-align: center;
+    display: block;
+}
